@@ -1,0 +1,7 @@
+User-Agent: *
+
+
+Disallow: /datenschutz.html
+Disallow: /impressum.html
+Disallow: /agb.html
+Disallow: /widerruf.html
